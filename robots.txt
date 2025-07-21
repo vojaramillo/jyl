@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vojaramillo.github.io/jyl/sitemap.xml
